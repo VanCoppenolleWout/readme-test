@@ -30,7 +30,7 @@ Neque aliquet aliquet vestibulum vitae sapien commodo iaculis bibendum. Quam vel
 * **Neque aliquet alique**t vestibulum vitae sapien commodo iaculis bibendum. Quam vel vitae accumsan pretium eget sed ullamcorper. Libero sem erat tempus vel. Volutpat elementum egestas eget orci posuere donec commodo auctor.
 * **Neque aliquet aliquet** vestibulum vitae sapien commodo iaculis bibendum. Quam vel vitae accumsan pretium eget sed ullamcorper. Libero sem erat tempus vel. Volutpat elementum egestas eget orci posuere donec commodo auctor.
 
-![blog-img]([https://hackmd.io/_uploads/ryRyb2Y8a.png](https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80))
+![blog-img](https://i0.wp.com/picjumbo.com/wp-content/uploads/beautiful-nature-mountain-scenery-with-flowers-free-photo.jpg?w=600&quality=80)
 
 ## Lorem ipsum dolor sit amet
 
